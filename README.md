@@ -1,6 +1,7 @@
 # React Native Cookies - A Cookie Manager for React Native
 
 Cookie Manager for React Native
+This is react-native-cookies/rjc-cookies. A branch forked from react-native-cookies/cookies to accomodate APG 7 and higher with the required namespace. Below README file has not been modified from that of the original react-native-cookies/cookies README.
 
 <a href="https://discord.gg/CJHKVeW6sp">
 <img src="https://img.shields.io/discord/764994995098615828?label=Discord&logo=Discord&style=for-the-badge"

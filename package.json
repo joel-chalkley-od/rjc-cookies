@@ -1,11 +1,11 @@
 {
-  "name": "@react-native-cookies/cookies",
-  "version": "6.2.1",
+  "name": "@react-native-cookies/rjc-cookies",
+  "version": "6.2.2",
   "description": "Cookie Manager for React Native",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/react-native-cookies/cookies.git",
-    "baseUrl": "https://github.com/react-native-cookies/cookies"
+    "url": "git+https://github.com/react-native-cookies/rjc-cookies.git",
+    "baseUrl": "https://github.com/react-native-cookies/rjc-cookies"
   },
   "keywords": [
     "react native",
@@ -29,9 +29,9 @@
   "licenseFilename": "LICENSE",
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/react-native-cookies/cookies/issues"
+    "url": "https://github.com/react-native-cookies/rjc-cookies/issues"
   },
-  "homepage": "https://github.com/react-native-cookies/cookies#readme",
+  "homepage": "https://github.com/react-native-cookies/rjc-cookies#readme",
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
